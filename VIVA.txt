@@ -1,0 +1,26 @@
+HOW MANY PARTS CAN CLASS DIAGRAM BE DIVIDED
+
+MEANING OF MINUS AND PLUS
+
+INHERITANCE KASARI DEKHAUNEY
+
+POINTED BHAG KATA TIRA RAKHNEY
+
+SOLID DIAMOND K HO
+
+AGGREGATION AND COMPOSITION K HO
+
+ASSOCIATION (is a relationship - Generalization) KO DUITA TYPES HO : AGGREGATION AND COMPOSITION
+
+Composition(Strong Relation) - Solid Diamond  - independently exist garna sakdaina
+
+Aggregation(Weak Relation) - Hollow Diamond - independently exist garna sak6
+
+Thulo wala part kata rakhney
+
+Multiplicity vaneko k ho
+
+
+
+
+
